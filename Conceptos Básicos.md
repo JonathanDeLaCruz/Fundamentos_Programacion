@@ -80,7 +80,7 @@ Proceso de **compilación → enlace → ejecución → depuración**.
 - **Diagrama de flujo:**  
   Ejemplo: la lámpara no funciona  
 
-  ![Diagrama de flujo - lámpara](/img/imagen1.png)
+  ![Diagrama de flujo - lámpara](/img/imagen1.png = 200x200)
 
 - **Pseudocódigo:**  
   ```text
